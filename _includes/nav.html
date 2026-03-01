@@ -1,6 +1,7 @@
 <nav class="site-nav">
   {% for item in site.navigation %}
-    {% assign active = item.url == page.url or (item.url == "/" and page.url == "/") %}
-    <a href="{{ item.url | relative_url }}" class="{% if active %}active{% endif %}">{{ item.title }}</a>
+    {% assign link = item.url | relative_url %}
+    {% assign active = link == page.url %}
+    <a href="{{ link }}" class="{% if active %}active{% endif %}">{{ item.title }}</a>
   {% endfor %}
 </nav>

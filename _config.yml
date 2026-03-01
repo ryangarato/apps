@@ -2,7 +2,7 @@ title: "Ryan Apps"
 description: "Official support and legal pages for apps developed by Ryan."
 baseurl: ""
 url: "https://apps.ryan.stream"
-author: "Ryan"
+author: "Ryan Garato"
 email: "support@ryan.stream"
 
 theme: jekyll-theme-cayman
