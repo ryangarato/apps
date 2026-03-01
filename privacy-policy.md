@@ -1,15 +1,14 @@
 ---
----
 layout: default
 title: "Privacy Policy"
-description: "Privacy Policy for apps by Ryan"
+description: "Privacy Policy for apps by Ryan Garato"
 ---
 
 <p class="last-updated">Last Updated: 1 March 2026</p>
 
 ## Introduction
 
-Ryan Apps is a collection of mobile applications developed and published by Ryan. This Privacy Policy applies to all of my apps (each an "App") and the web content hosted at https://apps.ryan.stream. By downloading, installing, or using any of my Apps, you agree to the practices described in this policy.
+Ryan Garato Apps is a collection of mobile applications developed and published by Ryan Garato. This Privacy Policy applies to all of my apps (each an "App") and the web content hosted at https://apps.ryan.stream. By downloading, installing, or using any of my Apps, you agree to the practices described in this policy.
 
 ## Information I Collect
 
@@ -23,10 +22,9 @@ When you use an App, I may automatically collect certain information about your 
 
 - Device information (model, operating system version)
 - Usage analytics (page views, feature interactions)
-- Crash reports and diagnostic data
 - IP address and general location information (country-level)
 
-I use third-party SDKs for analytics and crash reporting as disclosed below. If ads are present in an App, the respective ad provider’s privacy policy applies to their data collection and tracking.
+I may use Apple's analytics and operational diagnostics to understand app performance. If ads are present in an App, the respective ad provider’s privacy policy applies to their data collection and tracking.
 
 ## How I Use Your Information
 
@@ -34,28 +32,24 @@ I use the collected information for the following purposes:
 
 - To provide and maintain the core functionality of the Apps
 - To analyze usage patterns and improve the Apps through analytics
-- To investigate crashes and other technical issues via crash reporting
 - To respond to your support requests
 - To comply with legal obligations and enforce my terms
 
 ## Data Sharing and Disclosure
 
-I do not sell your personal information to third parties. I do not share identifying data with third parties, except when required by Apple for app distribution or analytics tracking, or with service providers who assist me in operating the Apps (such as analytics and crash-reporting providers). These partners are contractually obligated to protect your information.
+I do not sell your personal information to third parties. I do not share identifying data with third parties, except when required by Apple for app distribution or analytics tracking, or with service providers who assist me in operating the Apps (such as Supabase for user accounts). These partners are contractually obligated to protect your information.
 
-The third‑party SDKs currently integrated may include:
+The third-party services currently used include:
 
-- Analytics: e.g. Google Analytics for Firebase (or similar)
-- Crash reporting: e.g. Sentry (or similar)
-
-These services collect data as described in their own privacy policies.
+- Supabase (for ryan.stream accounts): Supabase acts as a data processor. See their privacy policy: https://supabase.com/privacy
 
 ## Data Retention
 
-I retain personal information only as long as necessary to fulfill the purposes outlined in this policy, such as providing support or analyzing usage. In general, analytics and crash data are retained for a period of up to 24 months, while support correspondence may be stored until the issue is resolved. Users may request deletion and I will purge all stored information related to their account or use.
+I retain personal information only as long as necessary to fulfill the purposes outlined in this policy, such as providing support or analyzing usage. In general, analytics data are retained for a period of up to 24 months, while support correspondence may be stored until the issue is resolved. Users may request deletion and I will purge all stored information related to their account or use.
 
 ## Your Rights and Choices
 
-You may request access to, correction of, or deletion of your personal information by contacting me at support@ryan.stream. You can also opt out of analytics tracking by disabling network access or following opt‑out procedures described by the third‑party SDKs.
+You may request access to, correction of, or deletion of your personal information by contacting me at support@ryan.stream. You can also opt out of analytics tracking by disabling network access or following Apple's opt-out procedures where available.
 
 ## Accounts and Identifiers
 

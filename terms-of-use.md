@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Terms of Use"
-description: "Terms of Use for apps by Ryan"
+description: "Terms of Use for apps by Ryan Garato"
 ---
 
 <p class="last-updated">Last Updated: 1 March 2026</p>
