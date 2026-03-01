@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Home"
+description: "Official support and legal pages for apps by Ryan."
+---
+
+# Ryan Apps
+
+Welcome. This site contains official support documentation and legal policies for all mobile applications developed and published by Ryan on the Apple App Store.
+
+## Available Pages
+
+- **[Privacy Policy](/privacy-policy)** — How your data is collected, used, and protected.
+- **[Terms of Use](/terms-of-use)** — The terms governing use of our apps.
+- **[Support](/support)** — Get help with any of our apps.
+- **[Contact](/contact)** — Reach out directly.
+
+> All apps are developed independently. This site is maintained to comply with Apple App Store submission requirements.

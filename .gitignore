@@ -1,0 +1,32 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ruby
+*.gem
+*.rbc
+
+# Environment and secrets
+.env
+.env.*
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
