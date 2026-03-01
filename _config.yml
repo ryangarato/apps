@@ -1,0 +1,30 @@
+title: "Ryan Apps"
+description: "Official support and legal pages for apps developed by Ryan."
+baseurl: ""
+url: "https://apps.ryan.stream"
+author: "Ryan"
+email: "support@ryan.stream"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Privacy Policy"
+    url: "/privacy-policy"
+  - title: "Terms of Use"
+    url: "/terms-of-use"
+  - title: "Support"
+    url: "/support"
+  - title: "Contact"
+    url: "/contact"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
