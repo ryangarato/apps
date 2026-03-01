@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Support"
-description: "Support for apps by Ryan"
+description: "Support for apps by Ryan Garato"
 ---
 
 # App Support

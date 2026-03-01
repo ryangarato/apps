@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Home"
-description: "Official support and legal pages for apps by Ryan."
+description: "Official support and legal pages for apps by Ryan Garato."
 ---
 
-# Ryan Apps
+# Ryan Garato Apps
 
-Welcome. This site contains official support documentation and legal policies for all mobile applications developed and published by Ryan on the Apple App Store.
+Welcome. This site contains official support documentation and legal policies for all mobile applications developed and published by Ryan Garato on the Apple App Store.
 
 ## Available Pages
 
