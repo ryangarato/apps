@@ -14,4 +14,4 @@ For all enquiries, please reach out via email:
 - **Support issues**: Include your app name and device/iOS version.
 - **Business enquiries**: Include "Business" in the subject line.
 
-We are based in New South Wales, Australia (AEST/AEDT).
+I am based in Australia (AEST/AEDT).
