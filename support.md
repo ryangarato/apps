@@ -4,6 +4,8 @@ title: "Support"
 description: "Support for apps by Ryan Garato"
 ---
 
+<div class="content-page" markdown="1">
+
 # App Support
 
 Need help with one of my apps? I'm here to assist.
@@ -22,6 +24,8 @@ Email me at support@ryan.stream with the subject line "Data Deletion Request" an
 Try force-closing and reopening the app. If the issue persists, please email me with your device model and iOS version.
 
 **I have a billing issue with an in-app purchase.**
-Apple handles all billing. Please visit https://support.apple.com/billing or contact me and I will do my best to assist.
+Apple handles all billing. Please visit [Apple Support](https://support.apple.com/billing) or contact me and I will do my best to assist.
 
 *This support page is maintained to comply with Apple App Store requirements.*
+
+</div>

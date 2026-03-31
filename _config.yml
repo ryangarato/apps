@@ -4,8 +4,8 @@ baseurl: ""
 url: "https://apps.ryan.stream"
 author: "Ryan Garato"
 email: "support@ryan.stream"
-
-theme: jekyll-theme-cayman
+lang: "en"
+locale: "en_AU"
 
 plugins:
   - jekyll-seo-tag
@@ -14,6 +14,8 @@ plugins:
 navigation:
   - title: "Home"
     url: "/"
+  - title: "Apps"
+    url: "/apps"
   - title: "Privacy Policy"
     url: "/privacy-policy"
   - title: "Terms of Use"
@@ -28,3 +30,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+social:
+  github: "ryangarato"

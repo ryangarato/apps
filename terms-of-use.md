@@ -4,7 +4,11 @@ title: "Terms of Use"
 description: "Terms of Use for apps by Ryan Garato"
 ---
 
-<p class="last-updated">Last Updated: 1 March 2026</p>
+<div class="content-page" markdown="1">
+
+# Terms of Use
+
+<span class="last-updated">Last Updated: 1 March 2026</span>
 
 ## 1. Acceptance of Terms
 
@@ -49,3 +53,5 @@ I may modify these Terms at any time. When changes are made, I will update the "
 ## 10. Contact
 
 For questions about these Terms, contact me at support@ryan.stream.
+
+</div>
