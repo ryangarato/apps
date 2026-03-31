@@ -4,7 +4,11 @@ title: "Privacy Policy"
 description: "Privacy Policy for apps by Ryan Garato"
 ---
 
-<p class="last-updated">Last Updated: 1 March 2026</p>
+<div class="content-page" markdown="1">
+
+# Privacy Policy
+
+<span class="last-updated">Last Updated: 1 March 2026</span>
 
 ## Introduction
 
@@ -70,3 +74,5 @@ I may update this Privacy Policy from time to time. When I do, I will revise the
 ## Contact Information
 
 If you have any questions about this Privacy Policy, please contact me at support@ryan.stream. I am based in New South Wales, Australia.
+
+</div>
